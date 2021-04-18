@@ -1,0 +1,1 @@
+## Gym buddy backend using GraphQL.
